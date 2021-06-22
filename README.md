@@ -10,7 +10,6 @@
 </p>
 
 <h3 align="left">My Stats:</h3>
-</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andressmartin&show_icons=true&locale=en&layout=compact" alt="andressmartin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andressmartin&show_icons=true&locale=en" alt="andressmartin" /></p>
