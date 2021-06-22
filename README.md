@@ -13,10 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 My Stats:
+
 [![card](https://github-readme-stats.vercel.app/api?username=AndressMartin&theme=Dracula)](https://github.com/iuricode/)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=AndressMartin&hide=html&layout=compact&theme=Dracula)](https://github.com/iuricode/)
 
 Contact:
+
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+-->
+
