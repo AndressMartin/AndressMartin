@@ -1,12 +1,12 @@
-<h4 align="left">Hey there. I'm a backend programmer fanatic with game development!</h4>
+<h4 align="left">Hey! My name is Andress Martin, and I'm a backend programmer and game developer.</h4>
 
-- 💥 Check our last game: [Torrois](https://gamejolt.com/games/torrois/574543)
+- 💥 Check our latest jam: [Torrois](https://gamejolt.com/games/torrois/574543)
 
 - 🍊 My team's WIP game: [Bergamaker](https://github.com/AndressMartin/Bergamaker)
 
-- 👾 Some small games at: [my Itch.io](https://andressmartin.itch.io/)
+- 👾 Some small jams at: [my Itch.io](https://andressmartin.itch.io/)
 
-<h4 align="left">Connect with me:</h4>
+<h4 align="left">Let's connect:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/andressmartin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andressmartin" height="30" width="40" /></a>
 </p>
