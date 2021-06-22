@@ -23,9 +23,9 @@
 
 <details><summary>Some github stats:</summary>
 
-[![card](https://github-readme-stats.vercel.app/api?username=AndressMartin&theme=dracula)]
+![card](https://github-readme-stats.vercel.app/api?username=AndressMartin&theme=dracula)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=AndressMartin&hide=html&layout=compact&theme=dracula)]
+![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=AndressMartin&hide=html&layout=compact&theme=dracula)
 </details>
 
 
