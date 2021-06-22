@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![card](https://github-readme-stats.vercel.app/api?username=AndressMartin&theme=Dracula)](https://github.com/iuricode/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=AndressMartin&hide=html&layout=compact&theme=Dracula)](https://github.com/iuricode/)
