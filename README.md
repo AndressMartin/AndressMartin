@@ -1,4 +1,4 @@
-<h4 align="left">Hey! My name is Andress Martin, and I'm a backend programmer and game developer.</h4>
+<h3 align="left">Hey! My name is Andress Martin, and I'm a backend programmer and game developer.</h3>
 <br>
   <br>
 <p align="left">
