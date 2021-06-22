@@ -1,10 +1,14 @@
 <h4 align="left">Hey! My name is Andress Martin, and I'm a backend programmer and game developer.</h4>
 
+
+<p align="left">
 - 💥 Check our latest jam: [Torrois](https://gamejolt.com/games/torrois/574543)
 
 - 🍊 My team's WIP game: [Bergamaker](https://github.com/AndressMartin/Bergamaker)
 
 - 👾 Some small jams at: [my Itch.io](https://andressmartin.itch.io/)
+</p>
+
 
 <h4 align="left">Let's connect:</h4>
 <p align="left">
