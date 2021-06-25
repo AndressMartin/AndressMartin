@@ -1,5 +1,7 @@
-Hey! My name is Andress Martin, I'm a backend programmer and game dev!
+Hey! My name is Andress Martin, I'm a backend programmer and game developer!
 <br>
+
+- 📢 Check out the Netflix Roblox event I worked in! [Stranger Things: Starcourt Mall](https://www.roblox.com/games/5853107391/Stranger-Things-Starcourt-Mall?refPageId=1ca56d8e-7feb-41ab-a946-617a7f8b5726)
 
 - 💥 Check our latest jam: [Torrois](https://gamejolt.com/games/torrois/574543)
 
