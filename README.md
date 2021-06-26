@@ -20,7 +20,7 @@ Hey! My name is Andress Martin, I'm a backend programmer and game developer!
 </details>
 
 
-Let's connect:
+Want to talk? You can find me here:
 <p align="left">
 <a href="https://linkedin.com/in/andressmartin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andressmartin" height="30" width="30" /></a>
 </p>
