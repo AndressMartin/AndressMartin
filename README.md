@@ -11,6 +11,7 @@ Hey! My name is Andress Martin, I'm a backend programmer and game developer!
 
   <br>
 
+I regularly work with <strong>Unity, Unreal, Roblox (Lua), OpenGL and Python.(</strong>
 <!---
 <details>
 <summary>I regularly work with:</summary>
