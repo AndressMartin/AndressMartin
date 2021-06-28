@@ -1,12 +1,12 @@
 Hey! My name is Andress Martin, I'm a backend programmer and game developer!
 <br>
 
-- 📢 Check out the Netflix Roblox game I worked in! [Stranger Things: Starcourt Mall](https://www.roblox.com/games/5853107391/Stranger-Things-Starcourt-Mall?refPageId=1ca56d8e-7feb-41ab-a946-617a7f8b5726)
+- 📢 Check out the Netflix event game I worked in! [Stranger Things: Starcourt Mall](https://www.roblox.com/games/5853107391/Stranger-Things-Starcourt-Mall?refPageId=1ca56d8e-7feb-41ab-a946-617a7f8b5726)
 
 - 💥 Our latest jam: [Torrois](https://gamejolt.com/games/torrois/574543)
-
+<!---
 - 🍊 My team's WIP game: [Bergamaker](https://github.com/AndressMartin/Bergamaker)
-
+-->
 - 👾 Some small jams at: [my Itch.io](https://andressmartin.itch.io/)
 
   <br>
