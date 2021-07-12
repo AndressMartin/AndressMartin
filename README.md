@@ -7,7 +7,7 @@ Hey! My name is Andress Martin, I'm a backend programmer, 3D modeller and game d
 <!---
 - 🍊 My team's WIP game: [Bergamaker](https://github.com/AndressMartin/Bergamaker)
 -->
-- 👾 Some small jams at: [my Itch.io](https://andressmartin.itch.io/)
+- 👾 Some small jams at: [andressmartin.itch.io](https://andressmartin.itch.io/)
 
   <br>
 
