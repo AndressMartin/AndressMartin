@@ -2,8 +2,8 @@ Hey! My name is Andress Martin, I'm a backend programmer, 3D modeller and game d
 <br>
 
 - 📢 Check out the Netflix game I worked in at Kokku Brazil! [Stranger Things: Starcourt Mall](https://www.roblox.com/games/5853107391/Stranger-Things-Starcourt-Mall?refPageId=1ca56d8e-7feb-41ab-a946-617a7f8b5726)
-- 🍮 Our 'GamerElla 2021' entry, which won the “I Want to Keep Playing!” prize award! [Mondness](https://mewmewdevart.itch.io/mondness)
-- 🗼 Our 'Game Jaaj 2021' entry: [Torrois](https://gamejolt.com/games/torrois/574543)
+- 🍮 Our 'GamerElla 2021' entry, which won the “I Want to Keep Playing!” prize award! [Mondness - by 'the Jellyvixes'](https://mewmewdevart.itch.io/mondness)
+- 🗼 Our 'Game Jaaj 2021' entry: [Torrois - by 'Bergamota'](https://gamejolt.com/games/torrois/574543)
 <!---
 - 🍊 My team's WIP game: [Bergamaker](https://github.com/AndressMartin/Bergamaker)
 -->
