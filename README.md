@@ -1,4 +1,4 @@
-Hey! My name is Andress, I'm a backend programmer, 3D modeller and game dev. I also love game jamming! ☕
+Hey! My name is Andress, a game developer and programming teacher. I also do music from time to time. ☕
 <br>
 
 - 📢 The Forgotten City, worked at as lighting and performance analyst, check it out: [Forgotten City Steam Page](https://store.steampowered.com/app/874260/The_Forgotten_City/)
