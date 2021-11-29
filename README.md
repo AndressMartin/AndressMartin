@@ -21,7 +21,7 @@ I regularly work with <strong>Unity, Unreal, Roblox (Lua), OpenGL and Python.</s
 </details>
 -->
 
-Want to talk? You can find me here:
+Want to talk? You can find me [here](https://linkedin.com/in/andressmartin):
 <p align="left">
 <a href="https://linkedin.com/in/andressmartin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andressmartin" height="30" width="30" /></a>
 </p>
