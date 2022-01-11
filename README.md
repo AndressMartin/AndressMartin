@@ -1,6 +1,8 @@
 Hey! I'm Andress, game developer, backend programmer, Unity C# and Unreal, and programming teacher. I also do music from time to time. ☕
 <br>
 
+Currently working with Kokku Games.
+
 - 📢 Check it out: The Forgotten City, worked on the lighting and performance: [Forgotten City Steam Page](https://store.steampowered.com/app/874260/The_Forgotten_City/)
 - 📢 Netflix Roblox project: [Stranger Things: Starcourt Mall](https://www.roblox.com/games/5853107391/Stranger-Things-Starcourt-Mall?refPageId=1ca56d8e-7feb-41ab-a946-617a7f8b5726)
 - 🍮 Award-winning 'GamerElla 2021' game: [Mondness - by 'the Jellyvixes'](https://mewmewdevart.itch.io/mondness)
