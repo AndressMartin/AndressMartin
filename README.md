@@ -1,4 +1,4 @@
-Hey! My name is Andress, a game developer and programming teacher. I also do music from time to time. ☕
+Hey! I'm Andress, game developer, backend programmer, Unity C# and Unreal, and programming teacher. I also do music from time to time. ☕
 <br>
 
 - 📢 Check it out: The Forgotten City, worked on the lighting and performance: [Forgotten City Steam Page](https://store.steampowered.com/app/874260/The_Forgotten_City/)
