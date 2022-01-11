@@ -1,11 +1,10 @@
 Hey! My name is Andress, a game developer and programming teacher. I also do music from time to time. ☕
 <br>
 
-- 📢 The Forgotten City, worked at as lighting and performance analyst, check it out: [Forgotten City Steam Page](https://store.steampowered.com/app/874260/The_Forgotten_City/)
-- 📢 Check out the Netflix game I worked in! [Stranger Things: Starcourt Mall](https://www.roblox.com/games/5853107391/Stranger-Things-Starcourt-Mall?refPageId=1ca56d8e-7feb-41ab-a946-617a7f8b5726)
+- 📢 Check it out: The Forgotten City, worked on the lighting and performance: [Forgotten City Steam Page](https://store.steampowered.com/app/874260/The_Forgotten_City/)
+- 📢 Netflix game I worked in! [Stranger Things: Starcourt Mall](https://www.roblox.com/games/5853107391/Stranger-Things-Starcourt-Mall?refPageId=1ca56d8e-7feb-41ab-a946-617a7f8b5726)
 - 🍮 Award-winning 'GamerElla 2021' game: [Mondness - by 'the Jellyvixes'](https://mewmewdevart.itch.io/mondness)
-- 🗼 Our 'Game Jaaj 2021' game: [Torrois - by 'Bergamota'](https://gamejolt.com/games/torrois/574543)
-- 👾 Some small jams at: [andressmartin.itch.io](https://andressmartin.itch.io/)
+- 👾 Some small jams & projects at: [andressmartin.itch.io](https://andressmartin.itch.io/)
 <!---
 - 🍊 My team's WIP game: [Bergamaker](https://github.com/AndressMartin/Bergamaker)
 -->
