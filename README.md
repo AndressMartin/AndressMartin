@@ -7,9 +7,6 @@ I'm a backend programmer @ Kokku Games and a programming/STEM teacher for childr
 - 📢 Netflix Roblox project, development and publishing: [Stranger Things: Starcourt Mall](https://www.roblox.com/games/5853107391/Stranger-Things-Starcourt-Mall?refPageId=1ca56d8e-7feb-41ab-a946-617a7f8b5726)
 - 🍮 Mondness, winner of the "I want to Keep Playing" award: [Mondness - by 'the Jellyvixes'](https://mewmewdevart.itch.io/mondness)
 - 👾 Some small jams & college projects at: [andressmartin.itch.io](https://andressmartin.itch.io/)
-<!---
-- 🍊 My team's WIP game: [Bergamaker](https://github.com/AndressMartin/Bergamaker)
--->
   <br>
 
 I regularly work with <strong>Unity, Unreal, Roblox (Lua), OpenGL and Python.</strong>
