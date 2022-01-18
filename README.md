@@ -22,7 +22,7 @@ I regularly work with <strong>Unity, Unreal, Roblox (Lua), OpenGL and Python.</s
 </details>
 -->
 
-Want to talk? let's [connect!](https://linkedin.com/in/andressmartin).
+Want to talk?
 
 <html>  
   <body>
@@ -30,6 +30,7 @@ Want to talk? let's [connect!](https://linkedin.com/in/andressmartin).
        <h3>Contact Me!</h3>
        <label>Email:</label>
        <a href="mailto: andress.contato@gmail.com"   target="_blank">andress.contato@gmail.com</a>
+      
       <label>Let's Connect:</label>
       <a href = "https://linkedin.com/in/andressmartin" target="_blank">https://linkedin.com/in/andressmartin</a>
     </div>
