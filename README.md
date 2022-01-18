@@ -26,3 +26,12 @@ Want to talk? let's [connect!](https://linkedin.com/in/andressmartin).
 
 Send me an email as well: [andress.contato@gmail.com](andress.contato@gmail.com)
 
+<html>  
+  <body>
+    <div>
+       <h3>Contact Us!</h3>
+       <label>Email:</label>
+       <a href="mailto: andress.contato@gmail.com"   target="_blank">andress.contato@gmail.com</a>
+    </div>
+  </body>
+</html>
