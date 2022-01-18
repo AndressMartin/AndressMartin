@@ -24,14 +24,14 @@ I regularly work with <strong>Unity, Unreal, Roblox (Lua), OpenGL and Python.</s
 
 Want to talk? let's [connect!](https://linkedin.com/in/andressmartin).
 
-Send me an email as well: [andress.contato@gmail.com](andress.contato@gmail.com)
-
 <html>  
   <body>
     <div>
-       <h3>Contact Us!</h3>
+       <h3>Contact Me!</h3>
        <label>Email:</label>
        <a href="mailto: andress.contato@gmail.com"   target="_blank">andress.contato@gmail.com</a>
+      <label>Let's Connect:</label>
+      <a href = "https://linkedin.com/in/andressmartin" target="_blank">https://linkedin.com/in/andressmartin</a>
     </div>
   </body>
 </html>
