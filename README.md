@@ -23,5 +23,6 @@ I regularly work with <strong>Unity, Unreal, Roblox (Lua), OpenGL and Python.</s
 -->
 
 Want to talk? let's [connect!](https://linkedin.com/in/andressmartin).
+
 Send me an email as well: [andress.contato@gmail.com](andress.contato@gmail.com)
 
