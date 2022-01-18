@@ -1,7 +1,7 @@
 Hey! I'm Andress, game developer, backend programmer, Unity C# and Unreal, and programming teacher. I also do music from time to time. ☕
 <br>
 
-Currently working @ Kokku Games, along with some side projects.
+I'm a backend programmer @ Kokku Games and a programming/STEM teacher for children.
 
 - 📢 Check it out -> The Forgotten City, where I worked on the lighting, performance and porting for the Xbox One: [Forgotten City Steam Page](https://store.steampowered.com/app/874260/The_Forgotten_City/)
 - 📢 Netflix Roblox project, development and publishing: [Stranger Things: Starcourt Mall](https://www.roblox.com/games/5853107391/Stranger-Things-Starcourt-Mall?refPageId=1ca56d8e-7feb-41ab-a946-617a7f8b5726)
@@ -22,8 +22,6 @@ I regularly work with <strong>Unity, Unreal, Roblox (Lua), OpenGL and Python.</s
 </details>
 -->
 
-Want to talk? You can find me [here](https://linkedin.com/in/andressmartin):
-<p align="left">
-<a href="https://linkedin.com/in/andressmartin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andressmartin" height="30" width="30" /></a>
-</p>
+Want to talk? let's [connect!](https://linkedin.com/in/andressmartin).
+Send me an email as well: [andress.contato@gmail.com](andress.contato@gmail.com)
 
