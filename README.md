@@ -1,6 +1,6 @@
 Hey! I'm Andress, game developer for Unity and Roblox and backend in C++. I also do music from time to time. ☕
 
-📢 [Check my Portfolio website for my updated list of projects Portfolio](https://andressmartin.github.io/)
+📢 [Check my Portfolio website for my updated list of projects](https://andressmartin.github.io/)
 
 I regularly work with <strong>Unity, Unreal, Roblox (Lua), OpenGL and Python.</strong>
 
